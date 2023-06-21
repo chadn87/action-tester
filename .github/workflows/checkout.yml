@@ -1,0 +1,6 @@
+on:
+  push:
+
+jobs:
+  checkout:
+    - uses: actions/checkout@v3
